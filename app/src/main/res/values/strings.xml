@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">MyFirstProject</string>
+    <string name="app_name">Shirokov Counter</string>
     
-    <string name="btn_text">Клац</string>
+    <string name="btn_text">+</string>
     <string name="counter">0</string>
     
 </resources>
